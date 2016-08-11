@@ -1,0 +1,15 @@
+body {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.jumbotron {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin: 20px;
+
+}
